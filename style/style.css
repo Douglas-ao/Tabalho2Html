@@ -1,0 +1,46 @@
+.tabela{
+    width: 600px;
+    background-color: #C7E7F3;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: bold;
+    margin-left: auto;
+    margin-right: auto;
+    border-spacing: 2px;
+
+}
+
+.txt_principal{
+    background-color: #0D5188;
+    color: #ffff;
+    padding: 2px;
+}
+
+.titulo{
+    background-color: #66C5E3;
+}
+
+.listas{
+    background-color: #C7E7F3;
+    color: #0D5188;
+}
+
+.posicao{
+    background-color: #c0c0c0;
+    color: black;
+    text-align: center;
+    font-weight: lighter;
+    width: 10%;
+}
+
+.pop{
+    color: black;
+    text-align: center;
+    font-weight: lighter;
+    width: 15%;
+}
+
+.espaco{
+    padding: 2px;
+}
+
